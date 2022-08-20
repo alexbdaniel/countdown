@@ -18,7 +18,7 @@ if (
     ( window.innerWidth <= 900 ) && ( window.innerHeight <= 900 )
 ) {
     alert("Like I told you, this site is designed to work on desktop browsers.");
-    window.location.replace("https://bbc.co.uk/news/");
+    window.location.replace("http://m.me/adisvcool");
 }
 
 
